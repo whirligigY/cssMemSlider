@@ -1,1 +1,1 @@
-# cssMemSlider
+https://whirligigY.github.io/cssMemSlider/cssMemSlider/
